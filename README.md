@@ -1,16 +1,16 @@
-Labs Spark
+# Labs Spark
 
 Labs Spark is an independent venture building software products and exploring AI intelligence architectures.
 
-Our Direction
+## Our Direction
 
 We aim to build thoughtful software products and explore new approaches to AI-powered systems.
 
- Initiatives
+## Initiatives
 
-- Spark — An AI intelligence architecture currently in the design stage.
-- Type Mind Spark — A software product.
-- Cluster Studio— A software product.
+- **Spark** — An AI intelligence architecture currently in the design stage.
+- **Type Mind Spark** — A software product.
+- **Cluster Studio** — A software product.
 
 ## Spark Architecture
 
