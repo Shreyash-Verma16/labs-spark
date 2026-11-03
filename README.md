@@ -1,26 +1,36 @@
 # Labs Spark
 
-Labs Spark is an independent venture building software products and exploring AI intelligence architectures.
+**An independent software development initiative exploring AI-powered products, intelligent systems, and creative technology.**
 
 ## Our Direction
 
-We aim to build thoughtful software products and explore new approaches to AI-powered systems.
+Labs Spark is an umbrella initiative for developing experimental software products and exploring practical applications of artificial intelligence.
+
+Our focus is on turning ideas into functional software through product development, engineering experimentation, and continuous learning.
 
 ## Initiatives
 
-- **Spark** — An AI intelligence architecture currently in the design stage.
-- **Type Mind Spark** — A software product.
-- **Cluster Studio** — A software product.
+- **Spark Intelligence** — An AI architecture initiative exploring shared intelligence capabilities.
+- **TypeMind Spark** — An agentic AI keyboard concept designed to improve digital communication.
+- **Cluster Studio** — An AI-powered creative software concept designed to bring creative tools and workflows together.
 
 ## Spark Architecture
 
-Spark is the architectural foundation behind the planned AURA and PRISM components.
+Spark Intelligence is currently exploring two planned components:
 
 - **AURA** — Adaptive User Response Architecture.
 - **PRISM** — Personal Reasoning Intent Synthesis Model.
 
-These components and their architecture are under development/design. Their implementation status may evolve.
+Both components are in the architecture and design stage.
 
 ## Current Focus
 
-Building software, documenting architecture, and turning ideas into working systems.
+- Software product development
+- AI application architecture
+- Backend engineering
+- Creative technology
+- Experimental system design
+
+---
+
+*Built with curiosity. Developed with purpose.*
