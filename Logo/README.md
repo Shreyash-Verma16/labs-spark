@@ -17,6 +17,12 @@ This directory contains the official brand logo assets for **Labs Spark**.
 ### Monochrome Logo
 ![Official Labs Spark Monochrome Logo](./labs-spark-logo-monochrome.png)
 
+## Usage & Rights
+
+© 2026 Shreyash Verma / Labs Spark. All rights reserved.
+
+These logo assets represent the official visual identity of **Labs Spark** and are **not** open-source. You may view them in this repository for reference, but you may **not** copy, modify, redistribute, or use these logos in any personal, academic, or commercial project without prior written permission from the owner.
+
 ---
 
 *Official visual identity assets for [Labs Spark](../README.md).*
