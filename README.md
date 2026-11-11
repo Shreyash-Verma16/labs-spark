@@ -31,6 +31,12 @@ Both components are in the architecture and design stage.
 - Creative technology
 - Experimental system design
 
+## Usage & Rights
+
+© 2026 Shreyash Verma / Labs Spark. All rights reserved.
+
+This repository and its associated materials, concepts, documentation, and brand assets (including [official logos](./Logo/README.md)) are **not** open-source. You may view this repository for reference only and may **not** copy, modify, redistribute, or use any materials or brand assets in personal, academic, or commercial projects without prior written permission from the owner.
+
 ---
 
 *Built with curiosity. Developed with purpose.*
